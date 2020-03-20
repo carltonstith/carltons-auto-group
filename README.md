@@ -6,8 +6,3 @@ Fake RestAPI powered by JSON-Server
 
 ## Run the application
 `dotnet run`
-
-## Run JSON Server
-`npm run json:server`
-
-The fake REST API will be running on `http://localhost:3000`
